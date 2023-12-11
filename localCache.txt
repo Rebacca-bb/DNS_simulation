@@ -1,0 +1,6 @@
+host.bupt.edu.cn A 1 1.2.3.4
+mail.bupt.edu.cn A 1 1.2.3.5
+wo.bupt.edu.cn CNAME 1 our.bupt.edu.cn
+our.bupt.edu.cn A 1 10.0.0.100
+qinghua.edu.cn MX 1 mail.qinghua.edu.cn
+mail.qinghua.edu.cn A 1 1.1.1.1

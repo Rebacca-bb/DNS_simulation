@@ -1,0 +1,8 @@
+lsc.gov.us 86400 IN A 192.168.9.9
+dns.gov.us 86400 IN A 192.168.100.100
+mail.qq.gov.us 86400 IN A 192.168.101.101
+mail.shen.gov.us 86400 IN A 192.168.102.102
+lsc.gov.us 86400 IN CNAME lsc.dns.shiyan
+dns.gov.us 86400 IN CNAME wgl.dns.shiyan
+qq.gov.us 86400 IN MX mail.qq.gov.us
+shen.gov.us 86400 IN MX mail.shen.gov.us
